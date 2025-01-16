@@ -19,7 +19,7 @@ Cada archivo cuenta con un nombre que contiene el número de práctica **(P)** y
 Carpeta correspondiente a los diagramas de las clases utilizadas en los proyectos del tema 1, Cada diagrama de clase tiene un proyecto Java correspondiente.
 Los archivos se pueden visualizar con el programa ***Dia***
 
-### [📁 Programas Java](/Programas-Java)
+### [📁 Programas Java](/Programas%20Java)
 Carpeta correspondiente a los programas **Java** realizados en el curso, elaborados utlizando el IDE ***Apache Netbeans***, están formados por subcarpetas correspondientes a toda la estructura del programa.
 
 ### [📁 Proyectos](/Proyectos)
